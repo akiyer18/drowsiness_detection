@@ -14,7 +14,7 @@ This repository contains code for detecting drowsiness using OpenCV and YOLOv5.
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/drowsiness_detection.git
+git clone https://github.com/akstud/drowsiness_detection.git
 cd drowsiness_detection
 
 
